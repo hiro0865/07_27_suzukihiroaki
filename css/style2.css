@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(117, 238, 147);
+    width: 80%;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+
+textarea{
+    background-color:#fff;
+    width: 60%;
+    margin: 20px auto;
+    vertical-align: top;
+}
+li{
+    list-style: none;
+}
+.title-parts{
+    background-color: #fff;
+    margin: 15px auto;
+    width: 40%;
+}
+
+.url-parts{
+    background-color: #fff;
+    margin-left:30px;
+    width: 40%;
+}
+
+.cpmment-parts{
+    margin-left:45px;
+    width: 60%;
+}
+.comment{
+    position: relative;
+    top:30px;
+}
+
+.sendbutton{
+    width: 300px;
+    margin: 0 auto;
+    padding: 15px 0;
+    font-size: 20px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    color: #FFFFFF;
+    background: #008DDD;
+    border-radius: 5px;  
+}
